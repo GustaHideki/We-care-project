@@ -3,7 +3,10 @@
 <br>
 <h2>Desenvolvido com as tecnologias:
     <br>
+<<<<<<< HEAD:Readme
     <br>
+=======
+>>>>>>> fb38903900b7339a8ce7e9a303b7ed9ce6773673:Readme.md
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5-logo"/>
         <br>
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS-logo"/>

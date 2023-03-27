@@ -2,6 +2,7 @@
 <p> Site criado com finalidade de por em prática conhecimentos de front-end e Responsividade adquiridos no curso devclub. </p>
 <br>
 <h2>Desenvolvido com as tecnologias:
+    <br>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5-logo"/>
         <br>
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS-logo"/>
